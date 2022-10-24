@@ -14,4 +14,3 @@ namespace WinFormsApp2
             Application.Run(new Form1());
         }
     }
-}
